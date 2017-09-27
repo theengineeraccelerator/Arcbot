@@ -1,0 +1,53 @@
+insert PRODUCT NAME Definition
+
+Introduction
+ADD INTRODUCTION
+
+
+Conventions
+??: A To-Be-Determined requirement. 
+[ ... ]: Future Feature. 
+
+Product Characteristics
+    - Weight:
+    - Height (X): 
+    - Length (Y):
+    - Width (Z):
+    - Target Cost: 
+    - Product Life Time Target:
+    - Operating Temperature: 
+
+
+
+
+INSERT DEVICE 1 NAME
+Feature List
+   FEATURE 1
+    Characteristics
+        - Characteristic
+           
+		Implementation
+
+
+Behavior Definition
+Product States
+    INSERT PRODUCT STATES
+
+
+Detailed Behavior
+   Initial State: INSERT STATE
+       EVENT 1
+            # Step 1
+
+Interface List
+   FROM <--> TO
+    Characteristics
+        - Characteristic
+
+Command Definition
+Command             Description                                                 
+
+
+
+
+
